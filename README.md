@@ -12,10 +12,10 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> </a> 
 
 
-- 🔭 I’m currently working on **Actio Brasil**
+- ###### 🔭 I’m currently working on **Actio Brasil**
 
 
-- 📣 **@lucasfernando06**
+- ###### 📣 **@lucasfernando06**
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfernando06&show_icons=true&locale=en&layout=compact" alt="lucasfernando06" />
 </div>
