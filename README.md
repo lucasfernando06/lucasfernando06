@@ -12,8 +12,9 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> </a> 
 </p>
-<p>🔭 I’m currently working on **Actio Brasil**</p>
-<p>📣 **@lucasfernando06**</p>
+
+- 🔭 I’m currently working on **Actio Brasil**
+- 📣 **@lucasfernando06**
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfernando06&show_icons=true&locale=en&layout=compact" alt="lucasfernando06" />
 </p>
