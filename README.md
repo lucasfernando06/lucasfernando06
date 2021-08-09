@@ -1,5 +1,5 @@
 # Hi 👋, I'm Lucas Fernando
-<p>Full Stack Developer (WEB) graduated in Computer Science and eternal student.</p>
+<p>Brazilian WEB developer graduated in Computer Science always looking for new knowledge.</p>
 <p>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> 
