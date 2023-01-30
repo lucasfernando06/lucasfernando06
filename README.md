@@ -1,6 +1,8 @@
 ### Welcome, I'm Lucas! 👋
 
-Brazilian Full Stack Developer (WEB), graduated in Computer Science from FUMEC University and always looking for new knowledge. Working on challenging projects, contributing and evolving daily.
+Brazilian Software Engineer with more than 4 years of experience, always working with Full Stack Software development. Despite that, my main area is Frontend.
+I have a degree in Computer Science from Fumec University and I'm currently working at Actio Brasil as a Tech Lead.
+Since I started my career, I've been working with amazing professionals and always on challenging projects, evolving daily.
 
 I have experience in technologies such as: 
 - React JS, 
