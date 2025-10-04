@@ -1,15 +1,16 @@
-### Welcome, I'm Lucas! 👋
+### Hi, I'm Lucas!
 
-Brazilian Software Engineer with more than 5 years of experience, always working with Full Stack Software development. Despite that, my main area is Frontend.
-I have a degree in Computer Science from Fumec University and I'm currently working at Actio Brasil as a Tech Lead.
-Since I started my career, I've been working with amazing professionals and always on challenging projects, evolving daily.
+Software Engineer with over 7 years of experience, specialized in developing complete solutions and focused on solving complex problems efficiently.
 
-I have experience in technologies such as: 
-- React JS, 
-- Next JS, 
-- C# (.NET Core), 
-- Node JS, 
-- SQL Server, 
-- PostgreSQL, etc.
+I have a degree in Computer Science from FUMEC University and I currently work at Actio, a company that serves some of the largest corporations in Latin America in their respective sectors.
 
-💻 Currently working at **Actio Brasil**.
+I have solid experience in both Frontend and Backend, covering technologies such as:
+
+- Next.js, React.js, TypeScript, Turborepo, C# (.NET), Node.js, Bun;
+- SQL Server, PostgreSQL, Tinybird, Elasticsearch, MongoDB;
+- React Testing Library, xUnit, Jest;
+- Docker, Fly.io, Vercel, AWS, SST.
+
+I work with agile methodologies, such as Scrum and Kanban, to ensure continuous and high-quality deliveries. Combining empathy and responsibility, I always strive to bring the best to the teams I work with and to the clients we serve.
+
+I am passionate about new challenges that allow me to grow and continue developing innovative solutions.
